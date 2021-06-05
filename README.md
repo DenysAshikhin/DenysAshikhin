@@ -92,7 +92,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Denys Ashikhin's GitHub Stats" src="
-  github-readme-stats-sigma-six-59.vercel.app/api?username=DenysAshikhin&show_icons=true&hide_border=true" />
+  <img align="left" alt="Denys Ashikhin's GitHub Stats" src="https://github-readme-stats-sigma-six-59.vercel.app/api?username=DenysAshikhin&show_icons=true&hide_border=true" />
 
 </details>
