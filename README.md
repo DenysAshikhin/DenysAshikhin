@@ -1,8 +1,8 @@
 ### Hi there, I'm Denys 👋
 
-<h2 align="left">I'm a Software Engineer who's constantly challenging himself!</h2>
+<h2 align="left">I'm a Software Engineer who's constantly challenging himself!<a href="https://linkedin.com/in/https://www.linkedin.com/in/denys-ashikhin-b24a52b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denys-ashikhin-b24a52b4/" height="30" width="40" /></a></h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/denys-ashikhin-b24a52b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denys-ashikhin-b24a52b4/" height="30" width="40" /></a>
+
 </p>
 
 - 🌱 I’m currently working on [Unity-AI](https://github.com/DenysAshikhin/Unity-AI)
