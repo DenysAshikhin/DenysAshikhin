@@ -15,7 +15,7 @@
 
 - 🥅 2020 Goals: Develop a Machine Learning game/program
 
-- ⚡ Fun fact: I'm pretty good at rock climbing
+- ⚡ Fun fact: I'm great at rock climbing
 
 
 
