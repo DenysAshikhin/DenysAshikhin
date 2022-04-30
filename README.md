@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **denysashikhin@gmail.com**
 
-- 🥅 2020 Goals: Develop a Machine Learning game/program
+- 🥅 2022 Goals: Develop competitively viable Machine-Learning agent for Brawlhalla
 
 - ⚡ Fun fact: I'm great at rock climbing
 
